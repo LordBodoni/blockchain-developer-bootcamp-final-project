@@ -10,7 +10,7 @@ rules of the game:
 
 2 players  ( A and B) are randomly selected to play split or steal game, and Receive a google meet link to talk to each other and gain trust for 3 mins (+ historic of last X transactions ?)
 
-(Player C(uckhold?) also join the call, is muted and can see the past 3 transactions of the 2 players ?, and can speak maybe for the last 5 seconds)
+(Player C also join the call, is muted and can see the past 3 transactions of the 2 players ?, and can speak maybe for the last 5 seconds)
 
 Both Steal 
 - they both loose the money, and the 3rd player wins 20 Eur (10 Eur to dealer)
