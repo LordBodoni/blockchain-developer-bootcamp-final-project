@@ -22,3 +22,20 @@ A split,  B- steal
 - A gets 0 , B gets 25 , C gets 0 (dealer gets 5 Eur)
 
 The player that decide to split doesn’t know if the other player will also split, or will steal. 
+
+
+Work flow 
+
+1. User 1 sends money to the escrow 
+2. User 2 sends money to the escrow 
+3. User 3 sends money to the escrow 
+4. Escrow realize there are ennough players to play and starts the game
+5. 2 players are selected, one is not 
+6. count down of 1.30 mins is started 
+7. 2 players have to select either split or steal 
+8. outcome is revealed and money are sent to
+   1. players 
+   2. game trasury  
+   
+
+
