@@ -4,6 +4,8 @@ Menage-a-trois
 
 An escrow based gambling game by Studio Bodoni 
 
+rules of the game:
+
 3 players chip in a escrow i.e. 10 Eur 
 
 2 players  ( A and B) are randomly selected to play split or steal game, and Receive a google meet link to talk to each other and gain trust for 3 mins (+ historic of last X transactions ?)
