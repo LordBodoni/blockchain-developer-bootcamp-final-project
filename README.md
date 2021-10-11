@@ -1,6 +1,6 @@
 # blockchain-developer-bootcamp-final-project
 
-Menage-a-trois
+Menage-a-trois or The big-game theory 
 
 An escrow based gambling game by Studio Bodoni 
 
@@ -32,8 +32,9 @@ Work flow
 4. Escrow realize there are ennough players to play and starts the game
 5. 2 players are selected, one is not 
 6. count down of 1.30 mins is started 
-7. 2 players have to select either split or steal 
-8. outcome is revealed and money are sent to
+7. google meet link is sent to the 2 players ( 3rd player can only watch and listen but can't talk)
+8. 2 players have to select either split or steal 
+9. outcome is revealed and money are sent to
    1. players 
    2. game trasury  
    
