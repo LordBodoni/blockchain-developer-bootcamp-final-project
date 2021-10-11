@@ -1,6 +1,6 @@
 # blockchain-developer-bootcamp-final-project
 
-Menage-a-trois or The big-game theory 
+Menage-a-trois or The big-game theory or ConvinceMe
 
 An escrow based gambling game by Studio Bodoni 
 
